@@ -1,8 +1,8 @@
 # AuthCodingChallengeAPI
 
-Link da API Publicada: https://codingchallengeapi.azurewebsites.net
+Link da API Publicada: https://authcodingchallengeapi.azurewebsites.net
 
-Exemplo: https://codingchallengeapi.azurewebsites.net/Login
+Exemplo: https://authcodingchallengeapi.azurewebsites.net/Login
 
 Deve ser passado no Body da chamada o login e a senha
 
